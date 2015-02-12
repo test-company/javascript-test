@@ -1,1 +1,0 @@
-var obj = { hoge: 'hoge' };
