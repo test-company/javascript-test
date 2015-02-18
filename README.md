@@ -25,7 +25,7 @@ ArcGIS API for JavaScript を用いてデータ ビジュアライゼーショ�
 
 ## リソース
 
-* [ArcGIS 開発者コミュニティ サイト](https://geonet.esri.com/groups/dev-jp)
+* [ArcGIS 開発者コミュニティ サイト](https://geonet.esri.com/)
 * [ArcGIS API for JavaScript（ESRIジャパン）](http://www.esrij.com/products/arcgis-api-for-javascript/)
 * [リファレンス](https://developers.arcgis.com/javascript/jsapi/)
 * [ArcGIS ブログ](http://blog.esrij.com/arcgisblog/2014/12/javascript-9ab3.html)
